@@ -297,7 +297,7 @@ const Contact = () => {
                 </div>
                 <div>
                   <p className="text-sm text-gray-400 font-medium">Email Us</p>
-                  <p className="text-lg font-medium">hello@sajiloprojecthub.com</p>
+                  <p className="text-lg font-medium">sajiloprojecthub@gmail.com</p>
                 </div>
               </div>
               <div className="flex items-start gap-4">
@@ -306,7 +306,7 @@ const Contact = () => {
                 </div>
                 <div>
                   <p className="text-sm text-gray-400 font-medium">Call Us</p>
-                  <p className="text-lg font-medium">+1 (555) 123-4567</p>
+                  <p className="text-lg font-medium">+977-9708547685</p>
                 </div>
               </div>
               <div className="flex items-start gap-4">
@@ -315,7 +315,7 @@ const Contact = () => {
                 </div>
                 <div>
                   <p className="text-sm text-gray-400 font-medium">Visit Us</p>
-                  <p className="text-lg font-medium">123 Tech Avenue, Innovation District<br />Kathmandu, Nepal</p>
+                  <p className="text-lg font-medium">Kathmandu, Nepal</p>
                 </div>
               </div>
             </div>
